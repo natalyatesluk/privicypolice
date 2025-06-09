@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Privacy Policy</title>
+</head>
+
+<body>
+    <h1>Privacy Policy</h1>
+    <p>This Chrome Extension collects browsing behavior and history data to provide its core features. The collected information is used only locally or stored in accordance with user preferences and is never shared with third parties.</p>
+    <p>We do not sell, rent, or trade any personal user data. All data is handled responsibly and in compliance with the Chrome Web Store User Data Policy.</p>
+    <p>For questions or concerns, please contact us at: <em>your-email@example.com</em></p>
+</body>
+
+</html>
